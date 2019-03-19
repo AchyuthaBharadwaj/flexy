@@ -1,14 +1,13 @@
 {
-  "main.css": "/flexy/static/css/main.e476e0d3.chunk.css",
-  "main.js": "/flexy/static/js/main.883b50d6.chunk.js",
-  "main.js.map": "/flexy/static/js/main.883b50d6.chunk.js.map",
+  "main.css": "/flexy/static/css/main.07318036.chunk.css",
+  "main.js": "/flexy/static/js/main.b2a737bb.chunk.js",
+  "main.js.map": "/flexy/static/js/main.b2a737bb.chunk.js.map",
   "runtime~main.js": "/flexy/static/js/runtime~main.61cf108f.js",
   "runtime~main.js.map": "/flexy/static/js/runtime~main.61cf108f.js.map",
-  "static/js/2.8f71a45e.chunk.js": "/flexy/static/js/2.8f71a45e.chunk.js",
-  "static/js/2.8f71a45e.chunk.js.map": "/flexy/static/js/2.8f71a45e.chunk.js.map",
+  "static/js/2.f213e47f.chunk.js": "/flexy/static/js/2.f213e47f.chunk.js",
+  "static/js/2.f213e47f.chunk.js.map": "/flexy/static/js/2.f213e47f.chunk.js.map",
   "index.html": "/flexy/index.html",
-  "precache-manifest.29c5606826381367999d82024aa58d62.js": "/flexy/precache-manifest.29c5606826381367999d82024aa58d62.js",
+  "precache-manifest.8707c2e44f59df676bb657cf3cb5421b.js": "/flexy/precache-manifest.8707c2e44f59df676bb657cf3cb5421b.js",
   "service-worker.js": "/flexy/service-worker.js",
-  "static/css/main.e476e0d3.chunk.css.map": "/flexy/static/css/main.e476e0d3.chunk.css.map",
-  "static/media/logo.svg": "/flexy/static/media/logo.5d5d9eef.svg"
+  "static/css/main.07318036.chunk.css.map": "/flexy/static/css/main.07318036.chunk.css.map"
 }
